@@ -2,8 +2,10 @@
 
 # git clone git@github.com:miamiruby/tdd_trafficlight.git
 
+# Setup
 # gem install bundler
-
 # bundle install
-
 # rspec
+
+# To See solution
+# git checkout solution
