@@ -1,0 +1,9 @@
+# Building a Simple State Machine TrafficLight with TDD
+
+# git clone git@github.com:miamiruby/tdd_trafficlight.git
+
+# gem install bundler
+
+# bundle install
+
+# rspec
