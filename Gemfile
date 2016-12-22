@@ -5,6 +5,7 @@ gem 'racksh'
 
 group :development, :test do
   gem "rspec"
+  gem "rake"
   gem 'byebug'
   gem 'pry'
 end

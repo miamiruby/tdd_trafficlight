@@ -16,6 +16,7 @@ GEM
     racksh (1.0.0)
       rack (>= 1.0)
       rack-test (>= 0.5)
+    rake (10.4.2)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
@@ -39,6 +40,7 @@ DEPENDENCIES
   byebug
   pry
   racksh
+  rake
   rspec
 
 BUNDLED WITH
