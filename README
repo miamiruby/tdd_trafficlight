@@ -1,0 +1,12 @@
+# TDD Trafficlight
+
+# Setup
+# git clone git@github.com:miamiruby/tdd_trafficlight.git
+# cd tdd_trafficlight
+# bundle install
+
+# To Begin tests run
+# rake
+
+# When you complete the tasks submit your work
+# rake submit
